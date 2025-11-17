@@ -1,109 +1,81 @@
-👋 Olá! Seja bem-vindo ao meu GitHub
+# 👋 Olá! Seja bem-vindo ao meu GitHub
 
-Meu nome é Eduardo Serra Pierre Vidal e sou estudante de Ciência da Computação no UniCEUB (6º semestre).
-Sou apaixonado por Desenvolvimento Web e Segurança Web, sempre aprendendo novas tecnologias e buscando melhorar minhas habilidades por meio de projetos práticos.
+Meu nome é **Eduardo Serra Pierre Vidal** e sou **estudante de Ciência da Computação no UniCEUB (6º semestre)**.  
+Sou apaixonado por **Desenvolvimento Web** e **Segurança Web**, sempre aprendendo novas tecnologias e evoluindo por meio de projetos práticos.
 
-Aqui você encontrará minhas aplicações, estudos, experimentos e projetos pessoais — todos fazendo parte da minha jornada como desenvolvedor.
+Aqui você encontrará meus estudos, aplicações, experimentos e projetos pessoais — todos fazendo parte da minha jornada como desenvolvedor.
 
-🚀 Tecnologias & Skills
-🖥️ Linguagens de Programação
+---
 
-JavaScript
+## 🚀 Tecnologias & Skills
 
-TypeScript
+### 🖥️ Linguagens de Programação
+- JavaScript  
+- TypeScript  
+- Python  
+- Go (Golang)  
+- PHP  
+- Java  
+- C  
 
-Python
+### 🌐 Desenvolvimento Web
+- React.js  
+- Node.js  
+- Express  
+- Laravel  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- REST APIs  
 
-Go (Golang)
+### 🛢️ Bancos de Dados
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- SQLite  
 
-PHP
+### 🛠️ Ferramentas & Workflow
+- Git & GitHub  
+- Docker  
+- Postman / Insomnia  
+- VS Code  
+- Linux / WSL  
+- Figma  
 
-Java
+### 🔒 Segurança Web (Interesses)
+- OWASP Top 10  
+- Testes e análise de vulnerabilidades  
+- Boas práticas de autenticação e autorização  
 
-C
+---
 
-🌐 Desenvolvimento Web
+## 📌 Sobre Mim
+- 👨‍💻 Desenvolvedor em constante evolução  
+- 🎓 Aluno de Ciência da Computação (UniCEUB – 6º semestre)  
+- 🔍 Curioso por entender como sistemas funcionam internamente  
+- 🛠️ Gosto de construir projetos completos (frontend + backend + banco)  
+- 🔐 Apaixonado por temas de segurança e defesa de aplicações  
 
-React.js
+---
 
-Node.js
-
-Express
-
-Laravel
-
-HTML5
-
-CSS3
-
-Tailwind CSS
-
-REST APIs
-
-🛢️ Bancos de Dados
-
-MySQL
-
-PostgreSQL
-
-MongoDB
-
-SQLite
-
-🛠️ Ferramentas e Workflow
-
-Git & GitHub
-
-Docker
-
-Postman / Insomnia
-
-VS Code
-
-Linux / WSL
-
-Figma (prototipação)
-
-🔒 Interesses em Segurança Web
-
-OWASP Top 10
-
-Análise estática e dinâmica
-
-Testes de vulnerabilidade em aplicações web
-
-Boas práticas de autenticação e autorização
-
-📌 Sobre mim
-
-👨‍💻 Desenvolvedor em constante aprendizado
-
-🎓 Estudante de Ciência da Computação (6º semestre – UniCEUB)
-
-🔍 Curioso por entender como sistemas funcionam internamente
-
-🛠️ Gosto de construir projetos completos (frontend + backend + banco)
-
-🔐 Interesse crescente em segurança e defesa de aplicações
-
-📂 Explore meus projetos!
+## 📂 Explore Meus Projetos
 
 Aqui você encontra:
+- Aplicações web completas  
+- APIs desenvolvidas do zero  
+- Projetos em Go, Python, PHP e JavaScript  
+- Estudos de segurança web  
+- Ferramentas e automações  
 
-Aplicações web
+👉 **Fique à vontade para explorar meus repositórios, deixar uma estrela ⭐ e acompanhar minha evolução!**
 
-APIs próprias
+---
 
-Projetos em Go, Python, PHP e JavaScript
+## 📬 Contato
 
-Estudos de segurança web
+Se quiser trocar uma ideia, colaborar ou conversar sobre tecnologia:
 
-Automações e pequenos utilitários
+📧 **eduardospvidal@gmail.com**
 
-👉 Sinta-se à vontade para explorar meus repositórios, deixar uma estrela ⭐ e acompanhar meu progresso!
+---
 
-📬 Contato
-
-Se quiser conversar sobre tecnologia, colaborar ou trocar ideias:
-
-📧 eduardospvidal@gmail.com
