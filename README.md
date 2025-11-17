@@ -20,8 +20,7 @@ Aqui você encontrará meus estudos, aplicações, experimentos e projetos pesso
 
 ### 🌐 Desenvolvimento Web
 - React.js  
-- Node.js  
-- Express  
+- Node.js   
 - Laravel  
 - HTML5  
 - CSS3  
@@ -38,8 +37,7 @@ Aqui você encontrará meus estudos, aplicações, experimentos e projetos pesso
 - Git & GitHub  
 - Docker  
 - Postman / Insomnia  
-- VS Code  
-- Linux / WSL  
+- VS Code   
 - Figma  
 
 ### 🔒 Segurança Web (Interesses)
@@ -62,10 +60,8 @@ Aqui você encontrará meus estudos, aplicações, experimentos e projetos pesso
 
 Aqui você encontra:
 - Aplicações web completas  
-- APIs desenvolvidas do zero  
 - Projetos em Go, Python, PHP e JavaScript  
-- Estudos de segurança web  
-- Ferramentas e automações  
+- Ferramentas  
 
 👉 **Fique à vontade para explorar meus repositórios, deixar uma estrela ⭐ e acompanhar minha evolução!**
 
