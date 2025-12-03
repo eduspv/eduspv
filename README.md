@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub
 
 Meu nome é **Eduardo Serra Pierre Vidal** e sou **estudante de Ciência da Computação no UniCEUB (6º semestre)**.  
-Sou apaixonado por **Desenvolvimento Web** e **Segurança Web**, sempre aprendendo novas tecnologias e evoluindo por meio de projetos práticos.
+Sou apaixonado por **Desenvolvimento Web**, sempre aprendendo novas tecnologias e evoluindo por meio de projetos práticos.
 
 Aqui você encontrará meus estudos, aplicações, experimentos e projetos pessoais — todos fazendo parte da minha jornada como desenvolvedor.
 
@@ -40,19 +40,13 @@ Aqui você encontrará meus estudos, aplicações, experimentos e projetos pesso
 - VS Code   
 - Figma  
 
-### 🔒 Segurança Web (Interesses)
-- OWASP Top 10  
-- Testes e análise de vulnerabilidades  
-- Boas práticas de autenticação e autorização  
-
 ---
 
 ## 📌 Sobre Mim
 - 👨‍💻 Desenvolvedor em constante evolução  
 - 🎓 Aluno de Ciência da Computação (UniCEUB – 6º semestre)  
 - 🔍 Curioso por entender como sistemas funcionam internamente  
-- 🛠️ Gosto de construir projetos completos (frontend + backend + banco)  
-- 🔐 Apaixonado por temas de segurança e defesa de aplicações  
+- 🛠️ Gosto de construir projetos completos (frontend + backend + banco)   
 
 ---
 
