@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub
 
-Meu nome é **Eduardo Serra Pierre Vidal** e sou **estudante de Ciência da Computação no UniCEUB (6º semestre)**.  
+Meu nome é **Eduardo Serra Pierre Vidal** e sou **estudante de Ciência da Computação no UniCEUB (7º semestre)**.  
 Sou apaixonado por **Desenvolvimento Web**, sempre aprendendo novas tecnologias e evoluindo por meio de projetos práticos.
 
 Aqui você encontrará meus estudos, aplicações, experimentos e projetos pessoais — todos fazendo parte da minha jornada como desenvolvedor.
